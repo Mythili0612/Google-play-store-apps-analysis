@@ -8,7 +8,7 @@ This project analyzes Google Play Store apps using Python.
 - NumPy
 - Matplotlib
 - Seaborn
-- Google Colab / Jupyter Notebook
+- Jupyter Notebook
 
 ## Dataset
 Google Play Store dataset containing app category, rating, installs, size, and price.
