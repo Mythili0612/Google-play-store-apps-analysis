@@ -10,8 +10,8 @@ This project analyzes Google Play Store apps using Python.
 - Seaborn
 - Jupyter Notebook
 
-## Dataset
-Google Play Store dataset containing app category, rating, installs, size, and price.
+## Dataset Source
+The dataset was obtained from the public Google Play Store dataset available on Kaggle. It contains information about app category, rating, installs, size, price and and other relevant attributes used for data analysis and visualization. 
 
 ## Data Cleaning
 - Removed invalid installs and ratings
